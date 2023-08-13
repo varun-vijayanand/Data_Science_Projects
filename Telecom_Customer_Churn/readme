@@ -1,0 +1,4 @@
+This notebook demonstrates how to perform a churn prediction using different algorithms 
+and comparing them using various measures like F1 score and accuracy and recall etc. 
+Dataset link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Kaggle Notebook link: https://www.kaggle.com/code/varunv1411/churn
